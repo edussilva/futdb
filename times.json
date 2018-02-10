@@ -1,0 +1,126 @@
+[
+    {
+        "nome": "Corinthians",
+        "escudo": "escudos/corinthians.svg"
+    },
+    {
+        "nome": "Palmeiras",
+        "escudo": "escudos/palmeiras.svg"
+    },
+    {
+        "nome": "Santos",
+        "escudo": "escudos/santos.svg"
+    },
+    {
+        "nome": "Grêmio",
+        "escudo": "escudos/gremio.svg"
+    },
+    {
+        "nome": "Cruzeiro",
+        "escudo": "escudos/cruzeiro.svg"
+    },
+    {
+        "nome": "Flamengo",
+        "escudo": "escudos/flamengo.svg"
+    },
+    {
+        "nome": "Vasco",
+        "escudo": "escudos/vasco.svg"
+    },
+    {
+        "nome": "Chapecoense",
+        "escudo": "escudos/chapecoense.svg"
+    },
+    {
+        "nome": "Atlético MG",
+        "escudo": "escudos/atletico-mg.svg"
+    },
+    {
+        "nome": "Botafogo RJ",
+        "escudo": "escudos/botafogo.svg"
+    },
+    {
+        "nome": "Atlético PR",
+        "escudo": "escudos/atletico-pr.svg"
+    },
+    {
+        "nome": "Bahia",
+        "escudo": "escudos/bahia.svg"
+    },
+    {
+        "nome": "São Paulo",
+        "escudo": "escudos/sao-paulo.svg"
+    },
+    {
+        "nome": "Fluminense",
+        "escudo": "escudos/fluminense.svg"
+    },
+    {
+        "nome": "Sport",
+        "escudo": "escudos/sport.svg"
+    },
+    {
+        "nome": "Vitória",
+        "escudo": "escudos/vitoria.svg"
+    },
+    {
+        "nome": "Coritiba",
+        "escudo": "escudos/coritiba.svg"
+    },
+    {
+        "nome": "Avaí",
+        "escudo": "escudos/avai.svg"
+    },
+    {
+        "nome": "Ponte Preta",
+        "escudo": "escudos/ponte-preta.svg"
+    },
+    {
+        "nome": "Atlético GO",
+        "escudo": "escudos/atletico-go.svg"
+    },
+    {
+        "nome": "Atlético GO",
+        "escudo": "escudos/internacional.svg"
+    },
+    {
+        "nome": "Figueirense",
+        "escudo": "escudos/figueirense.svg"
+    },
+    {
+        "nome": "Santa Cruz",
+        "escudo": "escudos/santa-cruz.svg"
+    },
+    {
+        "nome": "América MG",
+        "escudo": "escudos/america-mg.svg"
+    },
+    {
+        "nome": "Joinville",
+        "escudo": "escudos/joinville.svg"
+    },
+    {
+        "nome": "Goiás",
+        "escudo": "escudos/goias.svg"
+    },
+    {
+        "nome": "Náutico",
+        "escudo": "escudos/nautico.svg"
+    },
+    {
+        "nome": "Ceará",
+        "escudo": "escudos/ceara.svg"
+    },
+    {
+        "nome": "Paraná",
+        "escudo": "escudos/parana.svg"
+    },
+    {
+        "nome": "Criciúma",
+        "escudo": "escudos/criciuma.svg"
+    },
+    {
+        "nome": "Paysandu",
+        "escudo": "escudos/paysandu.svg"
+    },
+]
